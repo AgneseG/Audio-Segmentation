@@ -9,7 +9,7 @@ Relevant code & data have been stored with the following structure:
 
 <div id="mp3-download-folder" class="section level3">
 
-+ ### **mp3 download folder** 
+### **mp3 download folder** 
 
 <div id="code-to-retrieve-files-from-remote-websites"
 class="section level6">
@@ -28,7 +28,7 @@ class="section level6">
 
 <div id="data-folder" class="section level3">
 
-+ ### **Data folder** 
+### **Data folder** 
 
 <div
 id="contains-all-mp3-files-the-chunked-streams-used-in-the-predictions"
