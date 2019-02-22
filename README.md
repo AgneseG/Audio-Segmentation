@@ -1,5 +1,3 @@
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
 <div class="container-fluid main-container">
 
 <div id="header" class="fluid-row">
@@ -30,7 +28,7 @@ class="section level6">
 
 <div id="data-folder" class="section level3">
 
-### [ **Data folder** ]{style="color:blue"}
+### [ **Data folder** ]
 
 <div
 id="contains-all-mp3-files-the-chunked-streams-used-in-the-predictions"
@@ -53,7 +51,7 @@ class="section level6">
 
 <div id="chunks-2sec-folder" class="section level3">
 
-### [ **Chunks 2sec folder** ]{style="color:blue"}
+### [ **Chunks 2sec folder** ]
 
 -   ###### [ **Chunking process** ]{style="color:blue"}
 
@@ -61,7 +59,7 @@ class="section level6">
     -   *Chunking process - Music.ipynb*
     -   *Chunking process - Speech.ipynb*
 
--   ###### [ **Train-Test split** ]{style="color:blue"}
+-   ###### [ **Train-Test split** ]
 
     -   *Train-Test split.ipynb* → code used to split test-train
         datasets for each category
@@ -80,9 +78,9 @@ class="section level6">
         *Note*: the last four .npy files were created to get suitable
         inputs to feed the Keras generator afterwards
 
--   ###### [ **NN model** ]{style="color:blue"}
+-   ###### [ **NN model** ]
 
-    -   [ **Speech - Music - Commercial** ]{style="color:blue"}
+    -   [ **Speech - Music - Commercial** ]
         -   **Model building**
             -   *Sequential NN.ipynb* → NN with dense layers only
             -   *CNN 2D.ipynb* → Convolution 2D NN
@@ -101,12 +99,12 @@ class="section level6">
 
 <div id="chunks-3sec-folder" class="section level3">
 
-### [ **Chunks 3sec folder** ]{style="color:blue"}
+### [ **Chunks 3sec folder** ]
 
     Same structure as 'Chunks 2sec' with a further sub-division of the folder 'NN model' in
     'Speech - Music - Commercial' and 'Speech - Music - Commercial - Speech over Music':
 
--   ###### [ **Chunking process** ]{style="color:blue"}
+-   ###### [ **Chunking process** ]
 
     -   *Chunking process - Commercial.ipynb*
     -   *Chunking process - Music.ipynb*
@@ -114,7 +112,7 @@ class="section level6">
     -   *Speech over music.ipynb* → code to create speech over music
         chunks
 
--   ###### [ **Train-Test split** ]{style="color:blue"}
+-   ###### [ **Train-Test split** ]
 
     -   *Train-Test split.ipynb* → code used to split test-train
         datasets for each category
@@ -139,9 +137,9 @@ class="section level6">
         *Note*: the last eight .npy files were created to get suitable
         inputs to feed the Keras generator afterwards
 
--   ###### [ **NN model** ]{style="color:blue"}
+-   ###### [ **NN model** ]
 
-    -   [ **Speech - Music - Commercial** ]{style="color:blue"}
+    -   [ **Speech - Music - Commercial** ]
         -   **Model building**
             -   *CNN 2D.ipynb* → Convolution 2D NN
             -   *CNN\_2D\_3sec.h5* → final Keras model
