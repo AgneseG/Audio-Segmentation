@@ -1,8 +1,3 @@
----
-generator: pandoc
-viewport: 'width=device-width, initial-scale=1'
----
-
 <div class="container-fluid main-container">
 
 <div id="header" class="fluid-row">
