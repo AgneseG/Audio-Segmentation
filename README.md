@@ -1,15 +1,19 @@
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+
 <div class="container-fluid main-container">
 
 <div id="header" class="fluid-row">
 
 </div>
 
-Relevant code & data have been stored in the subfolder ‘/src/data/’ with the following structure:
+Relevant code & data have been stored with the following structure:
 =================================================================================================
 
 <div id="mp3-download-folder" class="section level3">
 
-### [ **mp3 download folder** ]{style="color:blue"}
++ ### [ **mp3 download folder** ]{style="color:blue"}
 
 <div id="code-to-retrieve-files-from-remote-websites"
 class="section level6">
@@ -164,3 +168,4 @@ class="section level5">
 </div>
 
 </div>
+```
