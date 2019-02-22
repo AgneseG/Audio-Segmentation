@@ -1,7 +1,7 @@
 ```diff
 + this will be highlighted in green
 - this will be highlighted in red
-
+```
 <div class="container-fluid main-container">
 
 <div id="header" class="fluid-row">
@@ -168,4 +168,4 @@ class="section level5">
 </div>
 
 </div>
-```
+
