@@ -1,7 +1,5 @@
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
 <div class="container-fluid main-container">
 
 <div id="header" class="fluid-row">
